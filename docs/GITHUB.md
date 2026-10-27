@@ -5,6 +5,12 @@ The repository is configured locally with:
 - `origin` → `https://github.com/Jatinprajapati7869/agentic-harness-email-rag.git`
 - `upstream` → `https://github.com/cs329z/assignment1-harness.git`
 
+## Commit authorship
+
+This repo uses `.githooks/prepare-commit-msg` (via `core.hooksPath`) to strip
+`Co-authored-by: Cursor` trailers. Commits should be **Jatin Prajapati** only.
+See `.cursor/rules/git-commits.mdc` for agent instructions.
+
 ## Push your first commit
 
 From the project root, after [logging into GitHub CLI](https://cli.github.com/):

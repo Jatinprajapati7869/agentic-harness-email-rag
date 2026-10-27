@@ -1,0 +1,12 @@
+---
+description: Git commits are author-only; no Cursor co-author trailers
+alwaysApply: true
+---
+
+# Git commits
+
+When creating git commits for this repository:
+
+- Do **not** add `Co-authored-by: Cursor` or any Cursor/agent co-author trailer.
+- Commit messages should reflect the user's work only (Conventional Commits style is fine).
+- Author identity: **Jatin Prajapati** (`Jatinprajapati7869@users.noreply.github.com`).

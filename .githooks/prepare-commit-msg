@@ -1,0 +1,6 @@
+#!/bin/sh
+# Remove Cursor co-author trailers so commits stay author-only.
+MSG_FILE="$1"
+if [ -n "$MSG_FILE" ] && [ -f "$MSG_FILE" ]; then
+  sed -i '/^Co-authored-by: Cursor <cursoragent@cursor.com>$/d' "$MSG_FILE"
+fi
