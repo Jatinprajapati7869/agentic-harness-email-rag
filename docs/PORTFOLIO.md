@@ -1,5 +1,7 @@
 # Resume portfolio: CS329Z-style agent harness
 
+**Repository:** [github.com/Jatinprajapati7869/agentic-harness-email-rag](https://github.com/Jatinprajapati7869/agentic-harness-email-rag)
+
 This repository is an **independent implementation** of Stanford’s public
 [Assignment 1 starter](https://github.com/cs329z/assignment1-harness) (MIT
 license). Use it on your resume as **your own engineering work on a
